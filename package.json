@@ -1,0 +1,17 @@
+{
+  "name": "rw",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "concat-stream": "^2.0.0",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "protobufjs": "^6.10.2",
+    "snappy": "^6.3.5",
+    "standard": "^16.0.3"
+  }
+}
